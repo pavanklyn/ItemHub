@@ -6,7 +6,7 @@
 
 ## 📋 Overview
 
-ItemHub is a modern, responsive full-stack e-commerce product listing platform built with **AutoCoder** - an AI-powered cloud-native development platform. This project demonstrates the power of rapid full-stack development without traditional coding, featuring a complete backend API, responsive frontend UI, and database integration.
+ItemHub is a modern, responsive full-stack e-commerce product listing platform built - AI-powered cloud-native development platform. This project demonstrates the power of rapid full-stack development without traditional coding, featuring a complete backend API, responsive frontend UI, and database integration.
 
 ## ✨ Features
 
